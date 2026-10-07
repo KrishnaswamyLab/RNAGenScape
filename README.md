@@ -17,10 +17,10 @@
 
 </div>
 
-This is the authors' repository for the NeurIPS 2026 paper
+This is the official repository for the NeurIPS 2026 paper
 <br>[RNAGenScape: property-guided, optimized generation of mRNA sequences with manifold Langevin dynamics](https://arxiv.org/pdf/2510.24736).
 
-The official version is hosted at the [Lab GitHub repo](https://github.com/KrishnaswamyLab/RNAGenScape).
+Please raise issues [here](https://github.com/ChenLiu-1996/RNAGenScape).
 
 <br>
 
